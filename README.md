@@ -1,1 +1,1 @@
-# Typinp-Pro
+# Typing-Pro
