@@ -1,1 +1,1 @@
-pip show Pillow
+pillow
