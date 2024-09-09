@@ -1,6 +1,8 @@
 
 # Typing Pro
 
+Use Python 3.9 
+
 A brief description of what this project does and who it's for
 
 
