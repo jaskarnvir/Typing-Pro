@@ -5,6 +5,8 @@ import time
 import os
 import sys
 
+from PIL import ImageTk, Image
+
 # Sample sentences for typing practice
 EASY_SENTENCES = [
     "The quick brown fox jumps over the lazy dog.",
