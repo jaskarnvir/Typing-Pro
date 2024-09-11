@@ -149,7 +149,6 @@ class TypingPracticeApp:
         self.start_but_img = tk.PhotoImage(file=r"typing_pro_imges/start_button.png")
         self.reset_but_img = tk.PhotoImage(file=r"typing_pro_imges/reset_button.png")
         self.import_but_img = tk.PhotoImage(file=r"typing_pro_imges/import_button.png")
-        "typing_pro_imges/bg.png"
         self.r1 = tk.Button(
             bg="#1E1E1E",
             activebackground="#1E1E1E",
